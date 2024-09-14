@@ -19,7 +19,7 @@ engine: knitr
 ---
 
 
-# {background-image="images/academic_papers.png"}
+# [Academic Papers]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
 
 ## [Statistics Masters Paper]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
 
@@ -53,9 +53,8 @@ Applying Longitudinal data analysis from the Econometric perspective
 </div>
 :::
 
-# {background-image="images/workshops.png"}
 
-
+# [Workshops]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
 
 
 ## [R Ladies Worskshop]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
