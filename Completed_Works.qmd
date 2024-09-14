@@ -3,20 +3,103 @@ title: "&#8203;"
 format: 
   revealjs:
     theme: ["theme.scss"]
+    transition: slide
+    highlight-style: github
+    slide-number: true
+    sc-sb-title: true
     title-slide-attributes: 
             data-background-image: "images/title_slide.png"
             data-background-size: cover
             data-background-position: center
+filters: 
+ - reveal-header
+slide-level: 4
+number-sections: false
+engine: knitr
 ---
 
 
+# {background-image="images/academic_papers.png"}
 
-## [Statistics Masters Paper]{style="color:#FFAB40; font-size: 45px; "}{background-image="images/background_slide.png"}
+## [Statistics Masters Paper]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
+
+{{< pdf Daniel_Hintz_Statistics_Masters_paper.pdf width=100% height=500 border: 2px solid white;>}}
+
+::: footer
+<div style="font-size: 0.9em; color: #FFDDCF;">
+This was completed as part of a collaboration with Argonne National Labs and the Wyoming Public Health Lab
+</div>
+:::
+
+
+## [Statistics Masters Presentation]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
+
+<iframe src="https://dhintz137.github.io/Embedding_Presentation/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
+
+::: footer
+<div style="font-size: 0.9em; color: #FFDDCF;">
+Click <a href="https://github.com/DHintz137/Embedding_Presentation/tree/main" style="color: #D6492E;">here</a> for more detials
+</div>
+:::
+
+## [Economics Masters Paper]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
+
+{{< pdf Daniel_Hintz_Economics_Masters_paper.pdf width=100% height=500 border: 2px solid white;>}}
+
+
+::: footer
+<div style="font-size: 0.9em; color: #FFDDCF;">
+Applying Longitudinal data analysis from the Econometric perspective 
+</div>
+:::
+
+# {background-image="images/workshops.png"}
 
 
 
 
-## [Masters Masters Presentation]{style="color:#FFAB40; font-size: 45px; "}{background-image="images/background_slide.png"}
+## [R Ladies Worskshop]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
 
-<iframe src="https://dhintz137.github.io/Embedding_Presentation/" style="width: 100%; height: 600px; border: 2px solid white;"></iframe>
+<iframe src="https://dhintz137.github.io/Intro_2_R_workshop/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
+
+::: footer
+<div style="font-size: 0.9em; color: #FFDDCF;">
+Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D6492E;">here</a> for more detials
+</div>
+:::
+
+
+## [More Workshops]{.center style="color:#FFFFFF; font-size: 50px; text-align: center; position: relative; top: -80px;"}{background-image="images/background_slide.png"}
+
+
+::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
+::: incremental
+- [Development Tools for Sceintifc Computing](https://github.com/DHintz137/Bash_Conda_Git_workshop0 "Github Repo")
+- [Nextflow Workshop](https://github.com/DHintz137/Nextflow_workshop "Github Repo")
+:::
+:::
+
+
+## [More Info]{.center style="color:#FFFFFF; font-size: 50px; text-align: center; position: relative; top: -80px;"}{background-image="images/background_slide.png"}
+
+
+
+
+
+
+::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
+::: incremental
+- [My Website ✨](https://dhintz137.github.io/quartz/)
+- [My Github Repo](https://github.com/DHintz137)
+:::
+:::
+
+
+
+::: footer
+<div style="font-size: 0.9em; color: #FFDDCF;">
+Feel free to contact me at <a href="dhintz137@gmail.com" style="color: #D6492E;">dhintz137@gmail.com</a>
+</div>
+:::
+
 

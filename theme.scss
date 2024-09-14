@@ -5,14 +5,12 @@ $link-color: #0097A7;
 $presentation-heading-font: 'Montserrat', sans-serif;
 $mainFont: 'Montserrat', sans-serif;
 
+/*-- Import Montserrat font from Google Fonts --*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,700;1,700&display=swap');
+
 /*-- scss:rules --*/
 /* montserrat-semibold  */
-@font-face {
-  font-family: 'Montserrat';
-  font-style: normal;
-  font-weight: 400;
-  src: local(''),
-       url("./fonts/montserrat-semibold-webfont.woff2") format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-       url("./fonts/montserrat-semibold-webfont.woff") format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
-}
 
+.reveal section.top {
+  top: 0px !important;
+}
