@@ -82,6 +82,20 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 <iframe src="https://dhintz137.github.io/quartz/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
 
+::: footer
+<div style="font-size: 0.9em; color: #FFDDCF;">
+Located at <a href="https://dhintz137.github.io/quartz/" style="color: #D6492E;">https://dhintz137.github.io/quartz/</a>
+</div>
+:::
+
+## [Journal Articles]{.center style="color:#FFFFFF; font-size: 50px; text-align: center; position: relative; top: -80px;"}{background-image="images/background_slide.png"}
+
+
+::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
+- Joint Modelling Paper In Progress 🖋️️ (Alongside main author Chris Pretz).
+:::
+
+
 
 ## [More Info]{.center style="color:#FFFFFF; font-size: 50px; text-align: center; position: relative; top: -80px;"}{background-image="images/background_slide.png"}
 
@@ -89,6 +103,8 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 ::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
 - [My Github Repo](https://github.com/DHintz137)
+- [My Resume](https://github.com/DHintz137/Completed_Works/blob/main/Daniel_Hintz_resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/daniel-hintz-rstat/)
 :::
 
 
