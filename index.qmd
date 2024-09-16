@@ -88,9 +88,7 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 
 ::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
-::: incremental
 - [My Github Repo](https://github.com/DHintz137)
-:::
 :::
 
 
