@@ -26,3 +26,19 @@ body {
 .reveal section.top {
   top: 0px !important;
 }
+
+#toc-title {
+  font-size: 50px;
+  color: #FFFFFF;
+}
+
+#TOC {
+  font-size: 25px;
+  color: #0097A7;
+}
+
+#TOC ul {
+  color: #0097A7;
+  list-style-type: disc; // Ensures it's a disc bullet
+  font-size: 35px; // Increases the bullet size along with the text
+}

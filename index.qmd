@@ -3,6 +3,11 @@ title: "&#8203;"
 format: 
   revealjs:
     theme: ["theme.scss"]
+    toc: true
+    toc-depth: 1
+    toc-bg-image: "images/h2.png"
+    template-partials:
+      - toc-slide.html
     transition: slide
     highlight-style: github
     slide-number: true
@@ -53,9 +58,38 @@ Applying Longitudinal data analysis from the Econometric perspective
 </div>
 :::
 
+# [Posters]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
+
+## {background-image="images/background_slide.png"}
+
+{{< pdf SC23_Research_Poster.pdf width=100% height=650px border: 2px solid white;>}}
+
+## {background-image="images/background_slide.png"}
+
+{{< pdf dhintz_wy_wasterwater_poster.pdf width=100% height=600 border: 2px solid white;>}}
+
+# [Dashboards]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
+
+## {background-image="images/background_slide.png"}
+
+<iframe src="https://kernza-sunburst-app.onrender.com/" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999; background-color: #FFFFFF;"></iframe>
+
+::: footer
+<div style="font-size: 0.9em; color: #FFDDCF;">
+Python Dashboard of <a href="https://kernza.org" style="color: #D6492E;">Kernza Perennial Grain</a> Pounds Per Conversion Method; hosted on <a href="https://render.com" style="color: #D6492E;">render</a>
+</div>
+:::
+
+
+## [Joint Modelig Shiny App]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
+
+
+::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative;"}
+Under Construction 🚧. Please visit again soon!
+:::
+
 
 # [Workshops]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
-
 
 ## [R Ladies Worskshop]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
 
@@ -78,21 +112,25 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 :::
 :::
 
-## [My Website ✨]{.center style="color:#FFFFFF; font-size: 50px; text-align: center;"}{background-image="images/background_slide.png"}
+# [Website & More]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
 
-<iframe src="https://dhintz137.github.io/quartz/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
+## {background-image="images/background_slide.png"}
+
+<iframe src="https://dhintz137.github.io/quartz/" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999; border: 2px solid white;"></iframe>
 
 ::: footer
 <div style="font-size: 0.9em; color: #FFDDCF;">
-Located at <a href="https://dhintz137.github.io/quartz/" style="color: #D6492E;">https://dhintz137.github.io/quartz/</a>
+Check out the <a href="https://dhintz137.github.io/quartz/About" style="color: #D6492E;">"About Me" 🇳🇿</a>
 </div>
+
+
 :::
 
 ## [Journal Articles]{.center style="color:#FFFFFF; font-size: 50px; text-align: center; position: relative; top: -80px;"}{background-image="images/background_slide.png"}
 
 
 ::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
-- Joint Modelling Paper In Progress 🖋️️ (Alongside main author Chris Pretz).
+- Joint Modelling Paper In Progress (Alongside main author Dr. Chris Pretz).
 :::
 
 
@@ -109,7 +147,7 @@ Located at <a href="https://dhintz137.github.io/quartz/" style="color: #D6492E;"
 
 
 
-::: footer
+::: footer 
 <div style="font-size: 0.9em; color: #FFDDCF;">
 Feel free to contact me at <a href="dhintz137@gmail.com" style="color: #D6492E;">dhintz137@gmail.com</a>
 </div>
