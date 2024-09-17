@@ -76,7 +76,7 @@ Applying Longitudinal data analysis from the Econometric perspective
 
 ::: footer
 <div style="font-size: 0.9em; color: #FFDDCF;">
-Python Dashboard of <a href="https://kernza.org" style="color: #D6492E;">Kernza Perennial Grain</a> Pounds Per Conversion Method; hosted on <a href="https://render.com" style="color: #D6492E;">render</a>
+Python Sunburst Plot of <a href="https://kernza.org" style="color: #D6492E;">Kernza Perennial Grain</a> Pounds Per Conversion Method; hosted on <a href="https://render.com" style="color: #D6492E;">render</a>
 </div>
 :::
 
