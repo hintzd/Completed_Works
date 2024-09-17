@@ -107,39 +107,47 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 ::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
 ::: incremental
-- [Development Tools for Sceintifc Computing](https://github.com/DHintz137/Bash_Conda_Git_workshop0 "Github Repo")
-- [Nextflow Workshop](https://github.com/DHintz137/Nextflow_workshop "Github Repo")
+- Development Tools for Sceintifc Computing (<a href="https://github.com/DHintz137/Bash_Conda_Git_workshop" style="color: #D6492E;">link</a>)
+- Nextflow Workshop (<a href="https://github.com/DHintz137/Nextflow_workshop" style="color: #D6492E;">link</a>)
 :::
 :::
+
+
+
+
 
 # [Coursework]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
 
 
 ## {background-image="images/background_slide.png"}
 
-::: {.fragment fragment-index=1}
+
 ::: {style="font-size: 45px; color: #FFFFFF;"}
 **Certificates** 
 :::
-:::
 
-::: {.fragment fragment-index=2}
+
+::: {.fragment fragment-index=1}
 ::: {.center style="text-align:left; font-size: 30px; color: #0097A7;"}
 - **Deep Learning for AI**  ✨ from Carnegie Mellon University School of Computer Science (In progress)
 :::
 :::
 
-::: {.fragment fragment-index=3}
+::: {.fragment fragment-index=2}
 ::: {style="font-size: 45px; color: #FFFFFF;"}
 **Acadeimic Transcript**
 :::
 :::
 
-::: {.fragment fragment-index=4}
+::: {.fragment fragment-index=3}
 ::: {style="font-size: 30px; color: #0097A7;"}
-- foo
+- UWYO Academic Transcript (<a href="https://github.com/DHintz137/Completed_Works/blob/main/Daniel_Hintz_Unofficial_Transcript.pdf" style="color: #D6492E;">link</a>)
 :::
 :::
+
+
+
+
 
 # [Website and More]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
 
