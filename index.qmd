@@ -153,7 +153,7 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 ## {background-image="images/background_slide.png"}
 
-<iframe src="https://dhintz137.github.io/quartz/" style="position:fixed; top:0; left:0; bottom:0; right:0; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999; border: 2px solid white;"></iframe>
+<iframe src="https://dhintz137.github.io/quartz/" style="width:100%; height:600px; border:none; margin:0; padding:0; background-color: #FFFFFF;"></iframe>
 
 ::: footer
 <div style="font-size: 0.9em; color: #FFDDCF;">
