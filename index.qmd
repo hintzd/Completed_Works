@@ -39,11 +39,11 @@ This was completed as part of a collaboration with Argonne National Labs and the
 
 ## [Statistics Masters Presentation]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
 
-<iframe src="https://dhintz137.github.io/Embedding_Presentation/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
+<iframe src="https://hintzd.github.io/Embedding_Presentation/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
 
 ::: footer
 <div style="font-size: 0.9em; color: #FFDDCF;">
-Click <a href="https://github.com/DHintz137/Embedding_Presentation/tree/main" style="color: #D6492E;">here</a> for more detials
+Click <a href="https://github.com/hintzd/Embedding_Presentation/tree/main" style="color: #D6492E;">here</a> for more detials
 </div>
 :::
 
@@ -93,11 +93,11 @@ Under Construction 🚧. Please visit again soon!
 
 ## [R Ladies Worskshop]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
 
-<iframe src="https://dhintz137.github.io/Intro_2_R_workshop/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
+<iframe src="https://hintzd.github.io/Intro_2_R_workshop/" style="width: 100%; height: 500px; border: 2px solid white;"></iframe>
 
 ::: footer
 <div style="font-size: 0.9em; color: #FFDDCF;">
-Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D6492E;">here</a> for more detials
+Click <a href="https://github.com/hintzd/Intro_2_R_workshop" style="color: #D6492E;">here</a> for more detials
 </div>
 :::
 
@@ -107,8 +107,8 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 ::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
 ::: incremental
-- Development Tools for Sceintifc Computing (<a href="https://github.com/DHintz137/Bash_Conda_Git_workshop" style="color: #D6492E;">link</a>)
-- Nextflow Workshop (<a href="https://github.com/DHintz137/Nextflow_workshop" style="color: #D6492E;">link</a>)
+- Development Tools for Sceintifc Computing (<a href="https://github.com/hintzd/Bash_Conda_Git_workshop" style="color: #D6492E;">link</a>)
+- Nextflow Workshop (<a href="https://github.com/hintzd/Nextflow_workshop" style="color: #D6492E;">link</a>)
 :::
 :::
 
@@ -141,7 +141,7 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 ::: {.fragment fragment-index=3}
 ::: {style="font-size: 30px; color: #0097A7;"}
-- UWYO Academic Transcript (<a href="https://github.com/DHintz137/Completed_Works/blob/main/Daniel_Hintz_Unofficial_Transcript.pdf" style="color: #D6492E;">link</a>)
+- UWYO Academic Transcript (<a href="https://github.com/hintzd/Completed_Works/blob/main/Daniel_Hintz_Unofficial_Transcript.pdf" style="color: #D6492E;">link</a>)
 :::
 :::
 
@@ -153,11 +153,11 @@ Click <a href="https://github.com/DHintz137/Intro_2_R_workshop" style="color: #D
 
 ## {background-image="images/background_slide.png"}
 
-<iframe src="https://dhintz137.github.io/quartz/" style="width:100%; height:600px; border:none; margin:0; padding:0; background-color: #FFFFFF;"></iframe>
+<iframe src="https://hintzd.github.io/quartz/" style="width:100%; height:600px; border:none; margin:0; padding:0; background-color: #FFFFFF;"></iframe>
 
 ::: footer
 <div style="font-size: 0.9em; color: #FFDDCF;">
-Check out the <a href="https://dhintz137.github.io/quartz/About" style="color: #D6492E;">"About Me" 🇳🇿</a>
+Check out the <a href="https://hintzd.github.io/quartz/About" style="color: #D6492E;">"About Me" 🇳🇿</a>
 </div>
 
 
@@ -177,8 +177,8 @@ Check out the <a href="https://dhintz137.github.io/quartz/About" style="color: #
 
 
 ::: {.center style="text-align:left; font-size: 0.85em; color: #0097A7; position: relative; top: -80px;"}
-- [My Github Repo](https://github.com/DHintz137)
-- [My Resume](https://github.com/DHintz137/Completed_Works/blob/main/Daniel_Hintz_resume.pdf)
+- [My Github Repo](https://github.com/hintzd)
+- [My Resume](https://github.com/hintzd/Completed_Works/blob/main/Daniel_Hintz_resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/daniel-hintz-rstat/)
 :::
 
