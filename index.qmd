@@ -23,7 +23,6 @@ number-sections: false
 engine: knitr
 ---
 
-
 # [Academic Papers]{style="color:#FFFFFF; font-size: 80px; "}{background-image="images/h2.png"}
 
 ## [Statistics Masters Paper]{style="color:#FFFFFF; font-size: 50px; "}{background-image="images/background_slide.png"}
@@ -129,7 +128,7 @@ Click <a href="https://github.com/hintzd/Intro_2_R_workshop" style="color: #D649
 
 ::: {.fragment fragment-index=1}
 ::: {.center style="text-align:left; font-size: 30px; color: #0097A7;"}
-- **Deep Learning for AI**  ✨ from Carnegie Mellon University School of Computer Science (In progress)
+- **Deep Learning for AI**  ✨ from Carnegie Mellon University School of Computer Science (<a href="https://certificates.emeritus.org/37501c0f-54da-4a47-add3-fed6eb80368a" style="color: #D6492E;">link</a>)
 :::
 :::
 
